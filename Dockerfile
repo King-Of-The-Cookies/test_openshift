@@ -1,4 +1,4 @@
-FROM python:3.6.9-stretch
+FROM python:lastest
 
 COPY . /app
 
