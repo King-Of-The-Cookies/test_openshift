@@ -1,4 +1,4 @@
-FROM openshift/python:latest
+FROM python:3.6.9-stretch
 
 COPY . /app
 
