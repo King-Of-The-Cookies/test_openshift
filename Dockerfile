@@ -1,4 +1,4 @@
-FROM python:lastest
+FROM openshift/python:lastest
 
 COPY . /app
 
